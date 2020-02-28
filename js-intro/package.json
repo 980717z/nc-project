@@ -4,8 +4,11 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"\\033[0;32mWarm greeting from Jimmy :)\\033[0m \" && jest"
   },
   "author": "Jimmy Lan",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^25.1.0"
+  }
 }
