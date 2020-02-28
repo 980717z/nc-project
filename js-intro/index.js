@@ -27,5 +27,5 @@ exports.multiply = (num1=0, num2=0) => {
  * Precondition: arr1 and arr2 are array of integers.
  */
 exports.sumArrays = (arr1=[], arr2=[]) => {
-  
+
 }

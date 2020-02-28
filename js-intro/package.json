@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"\\033[0;32mWarm greeting from Jimmy :)\\033[0m \" && jest"
+    "test": "echo \"\\033[0;32mWarm greeting from Jimmy :)\\033[0m \" && jest --watch"
   },
   "author": "Jimmy Lan",
   "license": "ISC",
